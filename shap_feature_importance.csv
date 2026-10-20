@@ -1,0 +1,11 @@
+Feature,Mean abs SHAP
+business_value,0.3838321
+strategic_alignment,0.27800477
+urgency,0.27194443
+regulatory_criticality,0.1979681
+customer_impact,0.18009235
+implementation_effort,0.16900761
+delivery_risk,0.10958677
+stakeholder_support,0.091196686
+data_quality,0.08102757
+dependencies,0.037745066

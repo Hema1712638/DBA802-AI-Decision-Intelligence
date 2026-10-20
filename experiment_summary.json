@@ -1,0 +1,14 @@
+{
+  "seed": 20261019,
+  "n": 6000,
+  "train": 3600,
+  "validation": 1200,
+  "test": 1200,
+  "blend_weight": 0.5,
+  "test_macro_f1_delta_hybrid_minus_xgb": 0.02785,
+  "bootstrap_95pct_CI": [
+    0.00719,
+    0.04888
+  ],
+  "synthetic_data_only": true
+}
